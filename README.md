@@ -1,3 +1,2 @@
 # RawperGo
-Projeto com base num emulador web 
-1234
+Projeto com base num emulador web
